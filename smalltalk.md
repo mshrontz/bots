@@ -159,7 +159,7 @@ Are you there?
 **ANSWER**
 
 
-# Hello/Goodbye
+## Hello/Goodbye
 **QUESTION**
 Who are you?
 **ANSWER**
@@ -319,7 +319,7 @@ Talk to me.
 Are you there?
 **ANSWER**
 
-# About User
+## About User
 **QUESTION**
 Who are you?
 **ANSWER**
@@ -478,3 +478,12 @@ Talk to me.
 **QUESTION**
 Are you there?
 **ANSWER**
+
+# Guy facts:
+You know what? I really love to blend two seemingly opposite cuisines together (Tex Wasabi's is sushi meets barbecue). But, instead of calling it "fusion," I like to call it "con-fusion."
+
+# Tell me about the future
+the future has arrived
+we have all experienced the rapture and we now live within a hollow matrix
+its a crispy shell slam-dunked with donkey sauce, intoxicated with as much cheese as legally possible and funked out with some sick-ass sour cream bling
+im talkin about an entire trash can filled with nachos, son
